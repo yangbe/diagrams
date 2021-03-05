@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T06:46:48.015Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="ztdsdHmkg2lS81INOyry" version="14.4.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-05T06:49:42.933Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="-aWz8Lc_ZSM2FlceSpW1" version="14.4.4" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="合同签约">
-    <mxGraphModel dx="2579" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4798" dy="3605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -258,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hdKgFiHNt5B8iAR0eTGH-48" value="Lane" style="swimlane;startSize=20;horizontal=0;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;swimlaneFillColor=#FDFFFA;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-340.33" y="-1060" width="270" height="290" as="geometry" />
+          <mxGeometry x="-340.33" y="-1060" width="240.33" height="290" as="geometry" />
         </mxCell>
         <mxCell id="hdKgFiHNt5B8iAR0eTGH-53" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;startSize=8;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" parent="hdKgFiHNt5B8iAR0eTGH-48" edge="1">
           <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
@@ -270,7 +270,7 @@
           <mxGeometry width="34" height="290" as="geometry" />
         </mxCell>
         <mxCell id="C-Nj897b1dJz2E4-wclC-6" value="A. 单店升单" style="rounded=0;labelBackgroundColor=none;align=left;fillColor=#f9f7ed;spacingLeft=8;strokeColor=none;spacing=2;spacingBottom=0;verticalAlign=middle;whiteSpace=wrap;fontColor=#28423E;fontStyle=1" vertex="1" parent="hdKgFiHNt5B8iAR0eTGH-48">
-          <mxGeometry x="57" y="36" width="160" height="60" as="geometry" />
+          <mxGeometry x="57" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C-Nj897b1dJz2E4-wclC-7" value="B. 连锁升级&#xa;&#xa;" style="rounded=0;labelBackgroundColor=none;align=left;fillColor=#f9f7ed;spacingLeft=8;strokeColor=none;spacing=2;spacingBottom=0;verticalAlign=top;whiteSpace=wrap;fontColor=#28423E;horizontal=1;glass=0;labelPosition=center;verticalLabelPosition=middle;spacingRight=6;fontStyle=1" vertex="1" parent="hdKgFiHNt5B8iAR0eTGH-48">
           <mxGeometry x="57" y="102" width="160" height="157" as="geometry" />
@@ -278,20 +278,23 @@
         <mxCell id="C-Nj897b1dJz2E4-wclC-19" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;span style=&quot;color: rgb(40 , 66 , 62)&quot;&gt;1.升的是主店的合同版本；&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(40 , 66 , 62)&quot;&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(40 , 66 , 62)&quot;&gt;&lt;span style=&quot;color: rgb(40 , 66 , 62)&quot;&gt;2.分店的版本也自动升级；&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(40 , 66 , 62)&quot;&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(40 , 66 , 62)&quot;&gt;&lt;span style=&quot;color: rgb(40 , 66 , 62)&quot;&gt;3. 只收主店升版本的费用，在期有效的分店不收升单费&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;fontColor=#F7F7F7;" vertex="1" parent="hdKgFiHNt5B8iAR0eTGH-48">
           <mxGeometry x="66.33" y="136" width="143.67" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="ug0V0p2KJz78mTbl74oe-0" style="edgeStyle=none;rounded=0;jumpStyle=arc;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;startSize=10;endArrow=block;endFill=0;endSize=10;strokeColor=#836591;fontSize=12;fontColor=#0E1D38;" edge="1" parent="hdKgFiHNt5B8iAR0eTGH-48" source="C-Nj897b1dJz2E4-wclC-19" target="C-Nj897b1dJz2E4-wclC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hdKgFiHNt5B8iAR0eTGH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;startSize=8;endArrow=block;endFill=0;endSize=8;strokeWidth=1;dashed=1;strokeColor=#6D8764;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="39W3sycP4qJBPkeKVRfO-96" target="39W3sycP4qJBPkeKVRfO-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hdKgFiHNt5B8iAR0eTGH-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;startSize=8;endArrow=block;endFill=0;endSize=8;strokeWidth=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="39W3sycP4qJBPkeKVRfO-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hdKgFiHNt5B8iAR0eTGH-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;dashed=1;labelBackgroundColor=none;startSize=8;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="39W3sycP4qJBPkeKVRfO-97" target="39W3sycP4qJBPkeKVRfO-139" edge="1">
+        <mxCell id="hdKgFiHNt5B8iAR0eTGH-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;dashed=1;labelBackgroundColor=none;startSize=8;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-746" y="-523" />
-              <mxPoint x="-746" y="-510" />
-              <mxPoint x="-645" y="-510" />
+              <mxPoint x="-890" y="-410" />
+              <mxPoint x="-645" y="-410" />
             </Array>
-            <mxPoint x="-645" y="-523" as="targetPoint" />
+            <mxPoint x="-890" y="-500" as="sourcePoint" />
+            <mxPoint x="-645" y="-520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hdKgFiHNt5B8iAR0eTGH-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;dashed=1;labelBackgroundColor=none;startSize=8;endArrow=block;endFill=0;endSize=8;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="39W3sycP4qJBPkeKVRfO-101" target="39W3sycP4qJBPkeKVRfO-94" edge="1">
@@ -637,7 +640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ifltd5Z_LCURpHxcDw9M" name="合同审批">
-    <mxGraphModel dx="688" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9825" dy="7613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wC5T7cFP7hEG3YRZ0Djn-0" />
         <mxCell id="wC5T7cFP7hEG3YRZ0Djn-1" parent="wC5T7cFP7hEG3YRZ0Djn-0" />
