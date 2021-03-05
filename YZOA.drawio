@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T06:37:50.818Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="vqtKTQlKIeZ42cyL-LPj" version="14.4.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-05T06:43:23.700Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="9BhUDVGRmiV9_1W8gaa7" version="14.4.4" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="合同签约">
     <mxGraphModel dx="2579" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -391,12 +391,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bb2iNCTvRKmCJJF4cGT_" name="门店 - 合同关系">
-    <mxGraphModel dx="655" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="374" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cldRQHUxAvSEypuHc2Yu-0" />
         <mxCell id="cldRQHUxAvSEypuHc2Yu-1" parent="cldRQHUxAvSEypuHc2Yu-0" />
         <mxCell id="22EN4StXQSH-fi4ENf3c-15" value="门店-合同-版本 ER图" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=40;horizontalStack=0;rounded=0;glass=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#F2F8FC;fontSize=14;align=left;spacingLeft=10;fontColor=#0E1D38;" vertex="1" parent="cldRQHUxAvSEypuHc2Yu-1">
-          <mxGeometry x="140" y="160" width="480" height="320" as="geometry" />
+          <mxGeometry x="30" y="70" width="480" height="320" as="geometry" />
         </mxCell>
         <mxCell id="22EN4StXQSH-fi4ENf3c-16" value="" style="swimlane;html=1;startSize=0;horizontal=0;" vertex="1" parent="22EN4StXQSH-fi4ENf3c-15">
           <mxGeometry y="40" width="480" height="280" as="geometry">
@@ -455,7 +455,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="22EN4StXQSH-fi4ENf3c-43" value="合同类型" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=14;" vertex="1" parent="cldRQHUxAvSEypuHc2Yu-1">
-          <mxGeometry x="370" y="860" width="140" height="164" as="geometry" />
+          <mxGeometry x="140" y="779" width="140" height="164" as="geometry" />
         </mxCell>
         <mxCell id="22EN4StXQSH-fi4ENf3c-44" value="伊智软件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="22EN4StXQSH-fi4ENf3c-43">
           <mxGeometry y="30" width="140" height="32" as="geometry" />
@@ -485,7 +485,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="22EN4StXQSH-fi4ENf3c-49" value="合同版本" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;" vertex="1" parent="cldRQHUxAvSEypuHc2Yu-1">
-          <mxGeometry x="750" y="830" width="140" height="130" as="geometry">
+          <mxGeometry x="520" y="749" width="140" height="130" as="geometry">
             <mxRectangle x="750" y="830" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -505,7 +505,7 @@
           <mxGeometry y="98" width="140" height="32" as="geometry" />
         </mxCell>
         <mxCell id="22EN4StXQSH-fi4ENf3c-68" value="门店" style="swimlane;rounded=1;labelBackgroundColor=none;strokeColor=#9673a6;fillColor=#F8EBFF;fontSize=14;fontColor=#000000;align=left;startSize=26;spacingLeft=10;" vertex="1" parent="cldRQHUxAvSEypuHc2Yu-1">
-          <mxGeometry x="500" y="600" width="280" height="190" as="geometry">
+          <mxGeometry x="270" y="519" width="280" height="190" as="geometry">
             <mxRectangle x="650" y="860" width="70" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -546,7 +546,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3wo7nI9Xod3fC34lsyC-19" value="合同版本" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;glass=0;labelBackgroundColor=none;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;" vertex="1" parent="cldRQHUxAvSEypuHc2Yu-1">
-          <mxGeometry x="750" y="970" width="140" height="130" as="geometry">
+          <mxGeometry x="520" y="889" width="140" height="130" as="geometry">
             <mxRectangle x="750" y="970" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -567,21 +567,21 @@
         </mxCell>
         <mxCell id="p3wo7nI9Xod3fC34lsyC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#836591;fontSize=12;fontColor=#0E1D38;jumpStyle=arc;jumpSize=8;dashed=1;align=left;verticalAlign=bottom;endSize=10;startFill=0;startArrow=none;startSize=10;endFill=0;" edge="1" parent="cldRQHUxAvSEypuHc2Yu-1" source="p3wo7nI9Xod3fC34lsyC-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="720" as="targetPoint" />
+            <mxPoint x="550" y="639" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="940" y="1016" />
-              <mxPoint x="940" y="720" />
+              <mxPoint x="710" y="935" />
+              <mxPoint x="710" y="639" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="p3wo7nI9Xod3fC34lsyC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;strokeColor=#836591;fontSize=12;fontColor=#0E1D38;jumpStyle=arc;jumpSize=8;dashed=1;align=left;verticalAlign=bottom;endSize=10;startFill=0;startArrow=none;startSize=10;endFill=0;" edge="1" parent="cldRQHUxAvSEypuHc2Yu-1" source="22EN4StXQSH-fi4ENf3c-48" target="22EN4StXQSH-fi4ENf3c-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3wo7nI9Xod3fC34lsyC-44" value="门店 - 合同 -版本 对应关系图" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=40;horizontalStack=0;rounded=0;glass=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#F2F8FC;fontSize=14;align=left;spacingLeft=10;fontColor=#0E1D38;" vertex="1" parent="cldRQHUxAvSEypuHc2Yu-1">
-          <mxGeometry x="1130" y="310" width="480" height="320" as="geometry" />
+        <mxCell id="p3wo7nI9Xod3fC34lsyC-44" value="门店 - 合同 关系图" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=40;horizontalStack=0;rounded=0;glass=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#F2F8FC;fontSize=14;align=left;spacingLeft=10;fontColor=#0E1D38;" vertex="1" parent="cldRQHUxAvSEypuHc2Yu-1">
+          <mxGeometry x="30" y="439" width="760" height="640" as="geometry" />
         </mxCell>
         <mxCell id="p3wo7nI9Xod3fC34lsyC-45" value="" style="swimlane;html=1;startSize=0;horizontal=0;" vertex="1" parent="p3wo7nI9Xod3fC34lsyC-44">
-          <mxGeometry y="40" width="480" height="280" as="geometry">
+          <mxGeometry y="40" width="760" height="600" as="geometry">
             <mxRectangle y="40" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
