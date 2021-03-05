@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T08:30:40.842Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="AhWsKcMdETvMkZ85cYgm" version="14.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-05T08:38:41.236Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="cdw6lhVR0xwfi9qZJHqE" version="14.4.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="合同签约">
-    <mxGraphModel dx="3619" dy="2692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2964" dy="2184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -43,8 +43,8 @@
         <mxCell id="hdKgFiHNt5B8iAR0eTGH-34" style="edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;dashed=1;fontSize=9;fontColor=#FF8800;startFill=0;" parent="ug0V0p2KJz78mTbl74oe-62" source="39W3sycP4qJBPkeKVRfO-147" target="39W3sycP4qJBPkeKVRfO-119" edge="1">
           <mxGeometry as="geometry" />
         </mxCell>
-        <mxCell id="keEvcWe9_nsdeo778shN-4" value="1. 连锁的主店，每年须仅续签一次，才可续签分店&#xa;2. 列表仅显示已签过约的门店可选" style="labelBackgroundColor=none;align=left;fillColor=#f9f7ed;spacingLeft=8;strokeColor=none;spacing=2;spacingBottom=0;verticalAlign=middle;whiteSpace=wrap;fontColor=#28423E;rounded=1;" parent="ug0V0p2KJz78mTbl74oe-62" vertex="1">
-          <mxGeometry x="340" y="10" width="230" height="60" as="geometry" />
+        <mxCell id="keEvcWe9_nsdeo778shN-4" value="1. 连锁的主店，每年须仅续签一次，才可续签分店 （仅软件类）&#xa;&#xa;2. 列表仅显示已签过约的门店可选" style="labelBackgroundColor=none;align=left;fillColor=#f9f7ed;spacingLeft=8;strokeColor=none;spacing=2;spacingBottom=0;verticalAlign=middle;whiteSpace=wrap;fontColor=#28423E;rounded=1;" parent="ug0V0p2KJz78mTbl74oe-62" vertex="1">
+          <mxGeometry x="320" y="10" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hdKgFiHNt5B8iAR0eTGH-15" value="Lane" style="swimlane;startSize=20;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;swimlaneFillColor=#FDFFFA;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1550" y="-590" width="800" height="250" as="geometry">
@@ -187,8 +187,8 @@
             <mxRectangle x="-1303" y="-780" width="30" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="keEvcWe9_nsdeo778shN-1" value="1. 连锁的主店未新签，必须要选择主店&lt;br&gt;2. 列表仅显示未签过约的门店可选" style="whiteSpace=wrap;labelBackgroundColor=none;align=left;fillColor=#f9f7ed;spacingLeft=8;strokeColor=none;spacing=2;spacingBottom=0;verticalAlign=middle;html=1;fontColor=#28423E;rounded=1;" parent="hdKgFiHNt5B8iAR0eTGH-14" vertex="1">
-          <mxGeometry x="309.99999999999994" y="20" width="230" height="40" as="geometry" />
+        <mxCell id="keEvcWe9_nsdeo778shN-1" value="1. 连锁的主店未新签，必须要选择主店&lt;br&gt;&lt;br&gt;2. 列表仅显示未签过约的门店可选" style="whiteSpace=wrap;labelBackgroundColor=none;align=left;fillColor=#f9f7ed;spacingLeft=8;strokeColor=none;spacing=2;spacingBottom=0;verticalAlign=middle;html=1;fontColor=#28423E;rounded=1;" parent="hdKgFiHNt5B8iAR0eTGH-14" vertex="1">
+          <mxGeometry x="333" y="20" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="39W3sycP4qJBPkeKVRfO-126" value="首签" style="whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fillColor=#6d8764;fontColor=#ffffff;strokeColor=none;rounded=1;" parent="hdKgFiHNt5B8iAR0eTGH-14" vertex="1">
           <mxGeometry width="34" height="290" as="geometry" />
@@ -270,16 +270,19 @@
           <mxGeometry width="34" height="290" as="geometry" />
         </mxCell>
         <mxCell id="C-Nj897b1dJz2E4-wclC-6" value="A. 单店升单" style="labelBackgroundColor=none;align=left;fillColor=#f9f7ed;spacingLeft=8;strokeColor=none;spacing=2;spacingBottom=0;verticalAlign=middle;whiteSpace=wrap;fontColor=#28423E;fontStyle=1;rounded=1;" vertex="1" parent="hdKgFiHNt5B8iAR0eTGH-48">
-          <mxGeometry x="58.170000000000016" y="30" width="160" height="60" as="geometry" />
+          <mxGeometry x="58.17" y="23" width="160" height="47" as="geometry" />
         </mxCell>
         <mxCell id="C-Nj897b1dJz2E4-wclC-7" value="B. 连锁升级&#xa;&#xa;" style="labelBackgroundColor=none;align=left;fillColor=#f9f7ed;spacingLeft=8;strokeColor=none;spacing=2;spacingBottom=0;verticalAlign=top;whiteSpace=wrap;fontColor=#28423E;horizontal=1;glass=0;labelPosition=center;verticalLabelPosition=middle;spacingRight=6;fontStyle=1;rounded=1;" vertex="1" parent="hdKgFiHNt5B8iAR0eTGH-48">
-          <mxGeometry x="58.170000000000016" y="100" width="160" height="157" as="geometry" />
+          <mxGeometry x="58.170000000000016" y="79" width="160" height="157" as="geometry" />
         </mxCell>
         <mxCell id="C-Nj897b1dJz2E4-wclC-19" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&lt;span style=&quot;color: rgb(40 , 66 , 62)&quot;&gt;1.升的是主店的合同版本；&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(40 , 66 , 62)&quot;&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(40 , 66 , 62)&quot;&gt;&lt;span style=&quot;color: rgb(40 , 66 , 62)&quot;&gt;2.分店的版本也自动升级；&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(40 , 66 , 62)&quot;&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; color: rgb(40 , 66 , 62)&quot;&gt;&lt;span style=&quot;color: rgb(40 , 66 , 62)&quot;&gt;3. 只收主店升版本的费用，在期有效的分店不收升单费&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;glass=0;fontColor=#F7F7F7;rounded=1;" vertex="1" parent="hdKgFiHNt5B8iAR0eTGH-48">
-          <mxGeometry x="74.49999999999997" y="130" width="143.67" height="105" as="geometry" />
+          <mxGeometry x="74.49999999999997" y="117" width="143.67" height="105" as="geometry" />
         </mxCell>
         <mxCell id="ug0V0p2KJz78mTbl74oe-0" style="edgeStyle=none;jumpStyle=arc;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;startSize=10;endArrow=block;endFill=0;endSize=10;strokeColor=#836591;fontSize=12;fontColor=#0E1D38;" edge="1" parent="hdKgFiHNt5B8iAR0eTGH-48" source="C-Nj897b1dJz2E4-wclC-19" target="C-Nj897b1dJz2E4-wclC-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7aqwYKuCCpH4BUjWiPW1-4" value="&lt;font color=&quot;#28423e&quot;&gt;* 顾问代运营合同无升单操作&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;glass=0;fontColor=#F7F7F7;rounded=1;" vertex="1" parent="hdKgFiHNt5B8iAR0eTGH-48">
+          <mxGeometry x="57.16999999999996" y="249" width="158.34" height="15" as="geometry" />
         </mxCell>
         <mxCell id="hdKgFiHNt5B8iAR0eTGH-61" style="edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;startSize=8;endArrow=block;endFill=0;endSize=8;strokeWidth=1;dashed=1;strokeColor=#6D8764;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="39W3sycP4qJBPkeKVRfO-96" target="39W3sycP4qJBPkeKVRfO-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -378,8 +381,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7aqwYKuCCpH4BUjWiPW1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=block;endFill=0;endSize=8;strokeColor=#000000;fontSize=9;fontColor=#FF8800;shadow=0;strokeWidth=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ug0V0p2KJz78mTbl74oe-1" target="hdKgFiHNt5B8iAR0eTGH-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-820" y="-980" />
+              <mxPoint x="-1258" y="-980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7aqwYKuCCpH4BUjWiPW1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=block;endFill=0;endSize=8;strokeColor=#000000;fontSize=9;fontColor=#FF8800;shadow=0;strokeWidth=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ug0V0p2KJz78mTbl74oe-1" target="ug0V0p2KJz78mTbl74oe-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-820" y="-980" />
+              <mxPoint x="-647" y="-980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7aqwYKuCCpH4BUjWiPW1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=block;endFill=0;endSize=8;strokeColor=#000000;fontSize=9;fontColor=#FF8800;shadow=0;strokeWidth=1;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ug0V0p2KJz78mTbl74oe-1" target="hdKgFiHNt5B8iAR0eTGH-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-820" y="-980" />
+              <mxPoint x="-210" y="-980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ug0V0p2KJz78mTbl74oe-1" value="客户签约" style="swimlane;startSize=20;horizontal=0;swimlaneFillColor=#ffffff;strokeColor=#CAD3E6;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1549.83" y="-1092" width="1459.83" height="100" as="geometry">
+          <mxGeometry x="-1549.33" y="-1110" width="1459.83" height="100" as="geometry">
             <mxRectangle x="-793" y="930" width="30" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
