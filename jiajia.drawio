@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T16:00:32.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="S7nWmYc3r1eqv9JnkblZ" version="14.7.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-28T16:01:06.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Zo1z55jkOw9ML-MRQJ41" version="14.7.0" type="github" pages="5">
   <diagram id="KCBV3hlvJQdjvj2Q_8EK" name="多家长-多设备关系图">
     <mxGraphModel dx="842" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -630,13 +630,13 @@
         <mxCell id="32zvDNB9pVPpsQUlkpmY-1" value="第三方应用" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="wSrLDNamNPfQo16VHO3m-7">
           <mxGeometry x="371" y="10" width="80" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="wSrLDNamNPfQo16VHO3m-12" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#fff2cc;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#AFB6BA;exitX=0.966;exitY=0.92;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1O3B8mbskNtaPvzoHJOA-1" source="wSrLDNamNPfQo16VHO3m-1">
-          <mxGeometry x="80" y="350" width="50" height="50" as="geometry">
-            <mxPoint x="640" y="572" as="sourcePoint" />
-            <mxPoint x="640" y="380" as="targetPoint" />
+        <mxCell id="wSrLDNamNPfQo16VHO3m-12" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#fff2cc;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#AFB6BA;exitX=0.966;exitY=0.92;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1O3B8mbskNtaPvzoHJOA-1">
+          <mxGeometry x="78" y="350" width="50" height="50" as="geometry">
+            <mxPoint x="638.28" y="633" as="sourcePoint" />
+            <mxPoint x="638" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="440" />
-              <mxPoint x="640" y="440" />
+              <mxPoint x="638" y="440" />
+              <mxPoint x="638" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
