@@ -52,6 +52,9 @@
         <mxCell id="qJo_SdbEoeLukXndjE-c-19" value="看板3" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=12;" vertex="1" parent="1">
           <mxGeometry x="200" y="100" width="340" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qJo_SdbEoeLukXndjE-c-20" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=0.5;shape=mxgraph.mockup.graphics.barChart;strokeColor=none;strokeColor2=none;strokeColor3=#cccccc;fillColor2=#999999;fillColor3=#dddddd;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="224" y="180" width="286" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
