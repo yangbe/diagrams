@@ -4,11 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qJo_SdbEoeLukXndjE-c-1" value="看板1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qJo_SdbEoeLukXndjE-c-1" value="文件夹1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="80" y="100" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qJo_SdbEoeLukXndjE-c-2" value="看板1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qJo_SdbEoeLukXndjE-c-2" value="看板1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qJo_SdbEoeLukXndjE-c-4" value="看板2" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qJo_SdbEoeLukXndjE-c-5" value="文件夹1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qJo_SdbEoeLukXndjE-c-6" value="看板1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qJo_SdbEoeLukXndjE-c-7" value="看板2" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
