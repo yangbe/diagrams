@@ -151,7 +151,7 @@
         <mxCell id="h7WIi_DsQQgCkxApf44P-23" value="图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="684" width="40" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-25" value="BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-25" value="BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="110" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -223,7 +223,7 @@
         <mxCell id="h7WIi_DsQQgCkxApf44P-36" value="图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="684" width="40" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-37" value="BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-37" value="BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="600" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="h7WIi_DsQQgCkxApf44P-38" target="h7WIi_DsQQgCkxApf44P-34">
@@ -232,7 +232,7 @@
         <mxCell id="h7WIi_DsQQgCkxApf44P-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="h7WIi_DsQQgCkxApf44P-38" target="h7WIi_DsQQgCkxApf44P-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-38" value="虚拟看板" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-38" value="虚拟看板" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="655" y="652" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="h7WIi_DsQQgCkxApf44P-44" target="h7WIi_DsQQgCkxApf44P-46">
