@@ -338,16 +338,16 @@
         <mxCell id="h7WIi_DsQQgCkxApf44P-129" value="" style="swimlane;shape=rect;strokeColor=#EEEEEE;fillColor=#ffffff;fontColor=#000000;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="771" y="226" width="149" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-130" value="以Tab形式查看" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=#FFFADB;fontSize=14;fontColor=#333333;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-129">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-130" value="以Tab形式查看" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=#FFFADB;fontSize=13;fontColor=#333333;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-129">
           <mxGeometry width="149" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-131" value="移动至" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=14;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-129">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-131" value="移动至" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=13;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-129">
           <mxGeometry y="36" width="149" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-132" value="重命名" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=14;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-129">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-132" value="重命名" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=13;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-129">
           <mxGeometry y="72" width="149" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-133" value="删除" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=14;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-129">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-133" value="删除" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=13;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-129">
           <mxGeometry y="108" width="149" height="36" as="geometry" />
         </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-134" value="将需聚合的看板放置在同一文件夹下" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#363636;fontSize=10;" vertex="1" parent="1">
@@ -414,19 +414,37 @@
           <mxGeometry x="1150" y="225" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-166" value="" style="swimlane;shape=rect;strokeColor=#EEEEEE;fillColor=#ffffff;fontColor=#000000;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="380" width="149" height="144" as="geometry" />
+          <mxGeometry x="1210" y="441" width="149" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-167" value="以目录形式查看" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=#FFFADB;fontSize=14;fontColor=#333333;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-166">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-167" value="以目录形式查看" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=#FFFADB;fontSize=13;fontColor=#333333;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-166">
           <mxGeometry width="149" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-168" value="移动至" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=14;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-166">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-168" value="移动至" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=13;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-166">
           <mxGeometry y="36" width="149" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-169" value="重命名" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=14;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-166">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-169" value="重命名" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=13;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-166">
           <mxGeometry y="72" width="149" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-170" value="删除" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=14;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-166">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-170" value="删除" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=13;fontColor=inherit;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-166">
           <mxGeometry y="108" width="149" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="h7WIi_DsQQgCkxApf44P-180" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=none;strokeColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="105" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7WIi_DsQQgCkxApf44P-181" value="看板1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=0;fontColor=#666666;fontSize=11;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-180">
+          <mxGeometry width="42.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7WIi_DsQQgCkxApf44P-182" value="看板2" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fontStyle=0;fillColor=none;strokeColor=none;fontColor=#666666;fontSize=11;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-180">
+          <mxGeometry x="42.5" width="42.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7WIi_DsQQgCkxApf44P-183" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#BFA353;strokeColor=none;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-182">
+          <mxGeometry y="27" width="42.5" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="h7WIi_DsQQgCkxApf44P-184" value="看板3" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=0;fontColor=#666666;fontSize=11;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-180">
+          <mxGeometry x="85" width="42.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h7WIi_DsQQgCkxApf44P-185" value="看板4" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=0;fontColor=#666666;fontSize=11;" vertex="1" parent="h7WIi_DsQQgCkxApf44P-180">
+          <mxGeometry x="127.5" width="42.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
