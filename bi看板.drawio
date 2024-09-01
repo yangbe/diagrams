@@ -106,13 +106,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-14" value="数据看板" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-14" value="数据看板" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="155" y="553" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-17" value="图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-17" value="图表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="350" y="540" width="40" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-18" value="图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-18" value="图表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="350" y="585" width="40" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="h7WIi_DsQQgCkxApf44P-21" target="h7WIi_DsQQgCkxApf44P-23">
@@ -142,13 +142,13 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-21" value="数据看板" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-21" value="数据看板" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="155" y="652" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-22" value="图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-22" value="图表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="350" y="639" width="40" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-23" value="图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-23" value="图表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="350" y="684" width="40" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-25" value="BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
@@ -178,13 +178,13 @@
             <mxPoint x="2" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-29" value="数据看板" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-29" value="数据看板" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="645" y="553" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-30" value="图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-30" value="图表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="840" y="540" width="40" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-31" value="图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-31" value="图表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="840" y="585" width="40" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="h7WIi_DsQQgCkxApf44P-34" target="h7WIi_DsQQgCkxApf44P-36">
@@ -214,13 +214,13 @@
             <mxPoint x="1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-34" value="数据看板" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-34" value="数据看板" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="840" y="652" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-35" value="图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-35" value="图表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="960" y="639" width="40" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-36" value="图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-36" value="图表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="960" y="684" width="40" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-37" value="BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
