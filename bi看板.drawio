@@ -1053,7 +1053,7 @@
           <mxGeometry x="127.5" width="42.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FaSfIOg5lm6JmIFFgvO0-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BFA353;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="3920" y="430" width="180" height="50" as="geometry" />
+          <mxGeometry x="3860" y="378" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FaSfIOg5lm6JmIFFgvO0-31" value="看板5" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=0;fontColor=#2f2f2f;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="3733" y="105" width="42.5" height="30" as="geometry" />
