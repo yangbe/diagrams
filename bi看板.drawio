@@ -874,7 +874,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h7WIi_DsQQgCkxApf44P-29" value="目录分组" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="h7WIi_DsQQgCkxApf44P-437" vertex="1">
+        <mxCell id="h7WIi_DsQQgCkxApf44P-29" value="分组" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="h7WIi_DsQQgCkxApf44P-437" vertex="1">
           <mxGeometry x="25" y="24" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="h7WIi_DsQQgCkxApf44P-437" source="h7WIi_DsQQgCkxApf44P-34" target="h7WIi_DsQQgCkxApf44P-36" edge="1">
