@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="zlOiqVQvwRABKMJe_wMJ">
-    <mxGraphModel dx="956" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1741,7 +1741,7 @@
           <mxGeometry x="-43" y="27" width="42.5" height="3" as="geometry" />
         </mxCell>
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-227" value="&lt;div&gt;容器看板的标题将置换为一个面包屑组件，渲染出父子容器看板信息和层级关系，点击上一层级可返回，最多显示4层；&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1794" y="-924" width="302" height="33" as="geometry" />
+          <mxGeometry x="1794" y="-923" width="302" height="33" as="geometry" />
         </mxCell>
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-229" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BFA353;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1848" y="-867" width="97" height="38" as="geometry" />
@@ -1758,6 +1758,11 @@
               <mxPoint x="1655" y="-870" />
               <mxPoint x="1655" y="-907" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-241" value="点击目录x1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-UdMMDkoHl8Hf38hwiRW-240">
+          <mxGeometry x="0.0911" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
