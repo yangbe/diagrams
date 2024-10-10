@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="zlOiqVQvwRABKMJe_wMJ">
-    <mxGraphModel dx="925" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1662,7 +1662,7 @@
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-238" value="普通看板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-166">
           <mxGeometry x="196.25" y="49" width="50" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-200" value="图中所示的子目录，目录x1、目录x2 作为&lt;font color=&quot;#cc6600&quot;&gt;看板节点&lt;/font&gt;渲染在选项卡组件中，其仍包含原目录的信息，包括其下有哪些看板和子目录。&lt;div&gt;目录x1、目录x2，此时本质上也是一个容器看板。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-200" value="图中所示的子目录，目录x1、目录x2 作为&lt;font color=&quot;#cc6600&quot;&gt;看板节点&lt;/font&gt;渲染在选项卡组件中，其仍保留原目录的信息，包括其下有哪些看板和子目录。&lt;div&gt;目录x1、目录x2，此时本质上也是一个容器看板。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1290" y="-908" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-201" value="" style="group" vertex="1" connectable="0" parent="1">
