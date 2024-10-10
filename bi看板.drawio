@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-66" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-930" width="1610" height="392" as="geometry" />
-        </mxCell>
         <mxCell id="h7WIi_DsQQgCkxApf44P-24" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="500" width="440" height="240" as="geometry" />
         </mxCell>
@@ -1426,8 +1423,14 @@
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-64" value="还原为默认的目录形式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#363636;fontSize=10;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-1">
           <mxGeometry x="501" y="122" width="45" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-67" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="-858" width="460" height="300" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-242" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="-930" width="1610" height="392" as="geometry" />
+        </mxCell>
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-66" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry width="1610" height="392" as="geometry" />
+        </mxCell>
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-67" value="" style="group" vertex="1" connectable="0" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="90" y="72" width="460" height="300" as="geometry" />
         </mxCell>
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-68" value="" style="whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-67">
           <mxGeometry x="120" width="340" height="300" as="geometry" />
@@ -1528,11 +1531,11 @@
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-128" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAxNiAxNiIgaGVpZ2h0PSIxNiIgd2lkdGg9IjE2Ij4mI3hhOzxwYXRoIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZT0iIzJGMkYyRiIgZmlsbD0iI0U4RUFFRCIgZD0iTTEuNjY2OTkgMi42NjY2N0MxLjY2Njk5IDIuMjk4NDggMS45NjU0NyAyIDIuMzMzNjYgMkg2LjMzMzY2TDguMDAwMzMgNEgxMy42NjdDMTQuMDM1MiA0IDE0LjMzMzcgNC4yOTg0NyAxNC4zMzM3IDQuNjY2NjdWMTMuMzMzM0MxNC4zMzM3IDEzLjcwMTUgMTQuMDM1MiAxNCAxMy42NjcgMTRIMi4zMzM2NkMxLjk2NTQ3IDE0IDEuNjY2OTkgMTMuNzAxNSAxLjY2Njk5IDEzLjMzMzNWMi42NjY2N1oiLz4mI3hhOzxwYXRoIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZT0iIzJGMkYyRiIgZD0iTTE0LjMzMzcgNy4zMzMwMUgxLjY2Njk5Ii8+JiN4YTs8cGF0aCBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZT0iIzJGMkYyRiIgZD0iTTEuNjY2OTkgNS4zMzMwMVY5LjMzMzAxIi8+JiN4YTs8cGF0aCBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZT0iIzJGMkYyRiIgZD0iTTE0LjMzMyA1LjMzMzAxVjkuMzMzMDEiLz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-165">
           <mxGeometry x="22" y="7" width="16" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-114" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-180;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="666" y="-767" width="20" height="202.25" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-114" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-180;strokeColor=#B3B3B3;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="66" y="163" width="20" height="202.25" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-115" value="" style="swimlane;shape=rect;strokeColor=#EEEEEE;fillColor=#ffffff;fontColor=#000000;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="786" y="-741" width="159" height="144" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-115" value="" style="swimlane;shape=rect;strokeColor=#EEEEEE;fillColor=#ffffff;fontColor=#000000;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="186" y="189" width="159" height="144" as="geometry" />
         </mxCell>
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-116" value="以选项卡形式查看" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=#FFFADB;fontSize=13;fontColor=#333333;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-115">
           <mxGeometry width="159" height="36" as="geometry" />
@@ -1546,22 +1549,22 @@
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-119" value="删除" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=13;fontColor=inherit;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-115">
           <mxGeometry y="108" width="159" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-120" value="目录下同时有看板节点和子目录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#363636;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="616" y="-709" width="45" height="74" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-120" value="目录下同时有看板节点和子目录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#363636;fontSize=10;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="16" y="221" width="45" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#BFA353;" edge="1" parent="1" target="-UdMMDkoHl8Hf38hwiRW-115">
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#BFA353;" edge="1" parent="-UdMMDkoHl8Hf38hwiRW-242" target="-UdMMDkoHl8Hf38hwiRW-115">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="865" y="-756" />
+              <mxPoint x="265" y="174" />
             </Array>
-            <mxPoint x="1210" y="-756" as="sourcePoint" />
+            <mxPoint x="610" y="174" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-123" value="目录X转换为看板容器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#363636;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="-746" width="60" height="39" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-123" value="目录X转换为看板容器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#363636;fontSize=10;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="555" y="184" width="60" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-166" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1230" y="-858" width="460" height="300" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-166" value="" style="group" vertex="1" connectable="0" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="630" y="72" width="460" height="300" as="geometry" />
         </mxCell>
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-167" value="" style="whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-166">
           <mxGeometry x="120" width="340" height="300" as="geometry" />
@@ -1662,11 +1665,11 @@
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-238" value="普通看板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-166">
           <mxGeometry x="196.25" y="49" width="50" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-200" value="图中所示的子目录，目录x1、目录x2 作为&lt;font color=&quot;#cc6600&quot;&gt;看板节点&lt;/font&gt;渲染在选项卡组件中，其仍保留原目录的信息，包括其下有哪些看板和子目录。&lt;div&gt;目录x1、目录x2，此时本质上也是一个容器看板。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-908" width="280" height="40" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-200" value="图中所示的子目录，目录x1、目录x2 作为&lt;font color=&quot;#cc6600&quot;&gt;看板节点&lt;/font&gt;渲染在选项卡组件中，其仍保留原目录的信息，包括其下有哪些看板和子目录。&lt;div&gt;目录x1、目录x2，此时本质上也是一个容器看板。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="690" y="22" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-201" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1727" y="-862" width="460" height="300" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-201" value="" style="group" vertex="1" connectable="0" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="1127" y="68" width="460" height="300" as="geometry" />
         </mxCell>
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-202" value="" style="whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-201">
           <mxGeometry x="120" width="340" height="300" as="geometry" />
@@ -1740,23 +1743,23 @@
         <mxCell id="-UdMMDkoHl8Hf38hwiRW-225" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#BFA353;strokeColor=none;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-224">
           <mxGeometry x="-43" y="27" width="42.5" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-227" value="&lt;div&gt;容器看板的标题将置换为一个面包屑组件，渲染出父子容器看板信息和层级关系，点击上一层级可返回，最多显示4层；&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1794" y="-923" width="302" height="33" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-227" value="&lt;div&gt;容器看板的标题将置换为一个面包屑组件，渲染出父子容器看板信息和层级关系，点击上一层级可返回，最多显示4层；&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="1194" y="7" width="302" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-229" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BFA353;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1848" y="-867" width="97" height="38" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-229" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BFA353;fillColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="1248" y="63" width="97" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-230" value="同时，选项卡组件上的目录信息将更新为目录x1下的节点内容" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1794" y="-890" width="296" height="18" as="geometry" />
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-230" value="同时，选项卡组件上的目录信息将更新为目录x1下的节点内容" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="-UdMMDkoHl8Hf38hwiRW-242">
+          <mxGeometry x="1194" y="40" width="296" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="-UdMMDkoHl8Hf38hwiRW-240" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;strokeColor=#BFA353;" edge="1" parent="1" source="-UdMMDkoHl8Hf38hwiRW-189" target="-UdMMDkoHl8Hf38hwiRW-227">
+        <mxCell id="-UdMMDkoHl8Hf38hwiRW-240" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;strokeColor=#BFA353;" edge="1" parent="-UdMMDkoHl8Hf38hwiRW-242" source="-UdMMDkoHl8Hf38hwiRW-189" target="-UdMMDkoHl8Hf38hwiRW-227">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1580" y="-860" as="sourcePoint" />
-            <mxPoint x="1630" y="-910" as="targetPoint" />
+            <mxPoint x="980" y="70" as="sourcePoint" />
+            <mxPoint x="1030" y="20" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1494" y="-870" />
-              <mxPoint x="1655" y="-870" />
-              <mxPoint x="1655" y="-907" />
+              <mxPoint x="894" y="60" />
+              <mxPoint x="1055" y="60" />
+              <mxPoint x="1055" y="23" />
             </Array>
           </mxGeometry>
         </mxCell>
